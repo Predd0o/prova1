@@ -1,0 +1,7 @@
+Coloque aqui o JAR do JUnit 5 (necessário para rodar os testes):
+
+  junit-platform-console-standalone-1.10.2.jar
+  https://repo1.maven.org/maven2/org/junit/platform/junit-platform-console-standalone/1.10.2/junit-platform-console-standalone-1.10.2.jar
+
+Alternativa: abra uma classe de teste no VS Code, clique na lâmpada/aviso
+"Enable Java Tests" e escolha JUnit Jupiter; o VS Code baixa o JAR para esta pasta.
